@@ -5,7 +5,7 @@
 
 .column {
     float: left;
-    width: 280px;
+    width: 2870px;
     /* height: fit-content; */
     height: min-content;
     margin-left: 40px;
@@ -59,7 +59,7 @@ p{
   }
 
 .image img{
-    width: 280px;
+    width: 270px;
     height: 170px;
     border-top-right-radius: 5px;
     border-top-left-radius: 5px;
